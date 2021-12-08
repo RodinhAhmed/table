@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <title>roudi's page </title>
+    </head>
+<body>
+    <!--start navigation-->
+    <a href="index.html" target ="_self">Home</a>&nbsp; &mdash; &nbsp;
+    <a href="studentlist.html" = target"_self"a>Student List </>&nbsp; &mdash; &nbsp;
+    <a href="newstudent.html" = target"_self"a>New Student </>&nbsp; &mdash; &nbsp;
+<!--end navigation-->
+<hr>
+<table border="1">
+    <tr>
+    <th>Name</th>
+    <th>ID</th>
+    <th>Faculty</th>
+    <th>Image</th>
+    </tr>
+    <tr>
+    <td>Rodinh Ahmed</td>
+    <td>20204283</td>
+    <td>FUE</td>
+    <td><img src="ph1099421467013938973"</td>
+    </tr>
+</table>
+</hr>
+<!-- Start Footer -->
+<a href ="http://www.fue.edu.eg" target="_blank">&copy; Future University in Egypt</a>&nbsp;&nbsp;&mdash;&nbsp;&nbsp;
+<a href="mailto:20204283@fue.edu.eg">contact us</a>
+<!-- End Footer -->
+</body>
+</html>
